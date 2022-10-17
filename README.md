@@ -8,5 +8,5 @@ Some graphs were created to understand the relationship between the data and the
 ### Training the Model
 The dataset is splitted as 80% for training set and 20% for test set. XGBRegressor is used in the model.
 
-## :medical_symbol:	 Dataset
+## :stethoscope:	 Dataset
 https://www.kaggle.com/datasets/mirichoi0218/insurance
